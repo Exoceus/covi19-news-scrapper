@@ -2,12 +2,12 @@
     "data": [
         [
             {
-                "title": "Did a Chinese Intelligence Officer Reveal the \u2018Truth About the Coronavirus Outbreak\u2019?",
+                "title": "Did a Chinese Intelligence Officer Reveal the Truth About the Coronavirus Outbreak?",
                 "subtitle": "A piece of horror fiction was a little too believable for some readers. ",
                 "value": "False"
             },
             {
-                "title": "Did Health Experts \u2018Predict\u2019 New Coronavirus Could Kill 65 Million People?",
+                "title": "Did Health Experts Predict New Coronavirus Could Kill 65 Million People?",
                 "subtitle": "Some details from a mock health exercise were confused with real-world reports.",
                 "value": "False"
             },
@@ -27,8 +27,8 @@
                 "value": "True"
             },
             {
-                "title": "Did a Doctor in Italy Warn Coronavirus Wasn\u2019t Just a \u2018Bad Flu\u2019?",
-                "subtitle": "Physician: \"The situation is now nothing short of dramatic. No other words come to mind.\"",
+                "title": "Did a Doctor in Italy Warn Coronavirus Wasnt Just a Bad Flu?",
+                "subtitle": "Physician: The situation is now nothing short of dramatic. No other words come to mind.",
                 "value": "CorrectAttribution"
             },
             {
@@ -38,7 +38,7 @@
             },
             {
                 "title": "Can Contaminated Money Spread the New Coronavirus?",
-                "subtitle": "The World Health Organization has advised people to \u201cwash their hands after handling banknotes.\u201d ",
+                "subtitle": "The World Health Organization has advised people to wash their hands after handling banknotes. ",
                 "value": "News"
             },
             {
@@ -48,52 +48,52 @@
             },
             {
                 "title": "Was COVID-19 Found in Packages of Toilet Paper?",
-                "subtitle": "The last thing readers needed amid the 2020 coronavirus pandemic was fiction disguised as \"news.\" ",
+                "subtitle": "The last thing readers needed amid the 2020 coronavirus pandemic was fiction disguised as news. ",
                 "value": "False"
             },
             {
                 "title": "Will Warm Weather Kill Coronavirus?",
-                "subtitle": "U.S. President Donald Trump said he hoped the virus would go away in April 2020 because the \"heat generally speaking kills this kind of virus.\"",
+                "subtitle": "U.S. President Donald Trump said he hoped the virus would go away in April 2020 because the heat generally speaking kills this kind of virus.",
                 "value": "Unproven"
             },
             {
-                "title": "Was This \u2018Health Bulletin\u2019 an Accurate Coronavirus Warning?",
-                "subtitle": "A viral social media post erroneously advised the public to \"keep your throat moist\" in order to avoid contracting the respiratory infection.",
+                "title": "Was This Health Bulletin an Accurate Coronavirus Warning?",
+                "subtitle": "A viral social media post erroneously advised the public to keep your throat moist in order to avoid contracting the respiratory infection.",
                 "value": "False"
             },
             {
                 "title": "Will Sipping Water Every 15 Minutes Prevent a Coronavirus Infection?",
-                "subtitle": "This \"serious excellent advice by Japanese doctors treating COVID-19 cases\" is not all that excellent. ",
+                "subtitle": "This serious excellent advice by Japanese doctors treating COVID-19 cases is not all that excellent. ",
                 "value": "False"
             },
             {
-                "title": "No, Holding Your Breath is Not a \u2018Simple Self-Check\u2019 for Coronavirus",
-                "subtitle": "Take a deep breath and consult the CDC or WHO's latest guidance before following any coronavirus \"advice\" from random sources on social media.",
+                "title": "No, Holding Your Breath is Not a Simple Self-Check for Coronavirus",
+                "subtitle": "Take a deep breath and consult the CDC or WHOs latest guidance before following any coronavirus advice from random sources on social media.",
                 "value": "False"
             },
             {
-                "title": "Can a Homemade Tito\u2019s Vodka Hand Sanitizer Help Stem Coronavirus?",
+                "title": "Can a Homemade Titos Vodka Hand Sanitizer Help Stem Coronavirus?",
                 "subtitle": "As the coronavirus spread in 2020, a fierce outbreak of bad advice took hold online. ",
                 "value": "False"
             },
             {
                 "title": "Can a Cattle Vaccine Be Used To Fight COVID-19?",
-                "subtitle": "The confusion seems to stem from the overuse of the word \"coronavirus.\" ",
+                "subtitle": "The confusion seems to stem from the overuse of the word coronavirus. ",
                 "value": "False"
             },
             {
-                "title": "No, a Hair Dryer Won\u2019t Stop Coronavirus",
+                "title": "No, a Hair Dryer Wont Stop Coronavirus",
                 "subtitle": "A viral video that claims breathing hot air from a hair dryer could cure COVID-19 demonstrates a basic and dangerous lack of understanding about science.",
                 "value": "False"
             },
             {
-                "title": "Will Gargling with Salt Water or Vinegar \u2018Eliminate\u2019 the COVID-19 Coronavirus?",
+                "title": "Will Gargling with Salt Water or Vinegar Eliminate the COVID-19 Coronavirus?",
                 "subtitle": "What works for colds is unlikely to help an already-infected person stave off the COVID-19 coronavirus disease.",
                 "value": "False"
             },
             {
                 "title": "Will Garlic Water Cure Coronavirus?",
-                "subtitle": "On the plus side, this \"treatment\" might help keep away others who could potentially infect you.",
+                "subtitle": "On the plus side, this treatment might help keep away others who could potentially infect you.",
                 "value": "False"
             },
             {
@@ -103,7 +103,7 @@
             },
             {
                 "title": "Should COVID-19 Patients Avoid Taking Ibuprofen?",
-                "subtitle": "French medical advice warned that \"adverse effects\" of drugs such as ibuprofen had been reported in coronavirus patients.",
+                "subtitle": "French medical advice warned that adverse effects of drugs such as ibuprofen had been reported in coronavirus patients.",
                 "value": "Unproven"
             },
             {
@@ -118,12 +118,12 @@
             },
             {
                 "title": "Will Eating Bananas Prevent Coronavirus Infection?",
-                "subtitle": "Bananas are a good source of various nutrients, but eating them doesn't offer solid protection against COVID-19.",
+                "subtitle": "Bananas are a good source of various nutrients, but eating them doesnt offer solid protection against COVID-19.",
                 "value": "False"
             },
             {
-                "title": "Coronavirus: It\u2019s Time to Debunk Claims That Vitamin C Could Cure It",
-                "subtitle": "In the midst of the novel coronavirus outbreak, some \u201cinfluencers\u201d are claiming that taking mega-doses of vitamin C can cure COVID-19.",
+                "title": "Coronavirus: Its Time to Debunk Claims That Vitamin C Could Cure It",
+                "subtitle": "In the midst of the novel coronavirus outbreak, some influencers are claiming that taking mega-doses of vitamin C can cure COVID-19.",
                 "value": "News"
             },
             {
@@ -138,7 +138,7 @@
             },
             {
                 "title": "Can You Get a Free Coronavirus Test by Donating Blood?",
-                "subtitle": "It's not the case that all blood banks are performing coronavirus tests on donors. ",
+                "subtitle": "Its not the case that all blood banks are performing coronavirus tests on donors. ",
                 "value": "False"
             },
             {
@@ -147,17 +147,17 @@
                 "value": "Scam"
             },
             {
-                "title": "\u2018Good Read From An Immunologist\u2019 Post Misstates Reasons for COVID-19\u2019s Virulence",
+                "title": "Good Read From An Immunologist Post Misstates Reasons for COVID-19s Virulence",
                 "subtitle": "A viral Facebook post argues the mutation rate of the coronavirus is responsible for its pandemic spread. There is no scientific support for that notion. ",
                 "value": "News"
             },
             {
                 "title": "Did a Coronavirus Bulletin Warn Against Unprotected Sex with Farm Animals?",
-                "subtitle": "You can take the virus out of the farm, but you can't ...",
+                "subtitle": "You can take the virus out of the farm, but you cant ...",
                 "value": "False"
             },
             {
-                "title": "Stopping Coronavirus \u2014 What Does the Evidence Say Is Best?",
+                "title": "Stopping Coronavirus  What Does the Evidence Say Is Best?",
                 "subtitle": "A variety of emergency responses and policy strategies have been implemented with different outcomes so far.",
                 "value": "News"
             },
@@ -172,8 +172,8 @@
                 "value": "Miscaptioned"
             },
             {
-                "title": "China\u2019s Official Newspaper Mislabels Video Footage in Coronavirus Coverage",
-                "subtitle": "A People's Daily video claiming to show \"full-front disinfection work\" in Wuhan included footage taken at an airport in Taiwan.",
+                "title": "Chinas Official Newspaper Mislabels Video Footage in Coronavirus Coverage",
+                "subtitle": "A Peoples Daily video claiming to show full-front disinfection work in Wuhan included footage taken at an airport in Taiwan.",
                 "value": "News"
             },
             {
@@ -187,13 +187,13 @@
                 "value": "False"
             },
             {
-                "title": "Did Kim Jong Un Order North Korea\u2019s First Coronavirus Patient To Be Executed?",
+                "title": "Did Kim Jong Un Order North Koreas First Coronavirus Patient To Be Executed?",
                 "subtitle": "Rumors from North Korea are notoriously difficult to fact check.",
                 "value": "Unproven"
             },
             {
-                "title": "Did a Doctor in Italy Warn Coronavirus Wasn\u2019t Just a \u2018Bad Flu\u2019?",
-                "subtitle": "Physician: \"The situation is now nothing short of dramatic. No other words come to mind.\"",
+                "title": "Did a Doctor in Italy Warn Coronavirus Wasnt Just a Bad Flu?",
+                "subtitle": "Physician: The situation is now nothing short of dramatic. No other words come to mind.",
                 "value": "CorrectAttribution"
             },
             {
@@ -203,11 +203,11 @@
             },
             {
                 "title": "Has Italy Stopped Treating the Elderly in the COVID-19 Pandemic?",
-                "subtitle": "A viral social media post claimed Italian doctors were not treating older patients with coronavirus due to \"socialized medicine.\"",
+                "subtitle": "A viral social media post claimed Italian doctors were not treating older patients with coronavirus due to socialized medicine.",
                 "value": "Mixture"
             },
             {
-                "title": "Did Dolphins and Swans \u2018Return\u2019 to Italian Waterways Amid COVID-19 Lockdown?",
+                "title": "Did Dolphins and Swans Return to Italian Waterways Amid COVID-19 Lockdown?",
                 "subtitle": "A few wildlife sightings were excitedly shared across social media as a note of sunny news amid the bleak reality of the coronavirus pandemic.",
                 "value": "Mixture"
             },
@@ -217,28 +217,28 @@
                 "value": "False"
             },
             {
-                "title": "Did President Trump Refer to the Coronavirus as a \u2018Hoax\u2019?",
-                "subtitle": "Trump's commentary on the new coronavirus came before the virus began killing patients in the U.S.",
+                "title": "Did President Trump Refer to the Coronavirus as a Hoax?",
+                "subtitle": "Trumps commentary on the new coronavirus came before the virus began killing patients in the U.S.",
                 "value": "Mixture"
             },
             {
                 "title": "Did Trump Administration Fire the US Pandemic Response Team?",
-                "subtitle": "As a new coronavirus spread in 2020, so did concerns about the United States' preparedness for a potential pandemic. ",
+                "subtitle": "As a new coronavirus spread in 2020, so did concerns about the United States preparedness for a potential pandemic. ",
                 "value": "True"
             },
             {
                 "title": "Did President Trump Cut the CDC Budget?",
-                "subtitle": "As the new coronavirus spread in February 2020, so did concerns about the United States' readiness to respond to the outbreak.",
+                "subtitle": "As the new coronavirus spread in February 2020, so did concerns about the United States readiness to respond to the outbreak.",
                 "value": "Mixture"
             },
             {
-                "title": "Did DOJ Propose Rollback of Defendants\u2019 Rights During Pandemic?",
+                "title": "Did DOJ Propose Rollback of Defendants Rights During Pandemic?",
                 "subtitle": "Any changes affecting constitutional guarantees afforded federal criminal defendants in the U.S. would ultimately be up to Congress.",
                 "value": "True"
             },
             {
-                "title": "Did US House Speaker Pelosi \u2018Hold Back\u2019 Coronavirus Funding?",
-                "subtitle": "The blame game for coronavirus response is on, but some claims aren't always accurate.",
+                "title": "Did US House Speaker Pelosi Hold Back Coronavirus Funding?",
+                "subtitle": "The blame game for coronavirus response is on, but some claims arent always accurate.",
                 "value": "False"
             },
             {
@@ -247,8 +247,8 @@
                 "value": "News"
             },
             {
-                "title": "Did Obama Declare Swine Flu an Emergency Only After \u2018Millions\u2019 Were Infected?",
-                "subtitle": "Not all \"fact checks\" are created equal. ",
+                "title": "Did Obama Declare Swine Flu an Emergency Only After Millions Were Infected?",
+                "subtitle": "Not all fact checks are created equal. ",
                 "value": "False"
             },
             {
@@ -258,12 +258,12 @@
             },
             {
                 "title": "Does Trump Own Stock in a Company CDC Uses for COVID-19 Tests?",
-                "subtitle": "The U.S. president\u2019s finances are complex, but does Donald Trump actually benefit from the CDC\u2019s testing procedures for the new coronavirus?",
+                "subtitle": "The U.S. presidents finances are complex, but does Donald Trump actually benefit from the CDCs testing procedures for the new coronavirus?",
                 "value": "False"
             },
             {
-                "title": "Is White House Warning of a \u2018Mandatory Quarantine\u2019 in a Text Message?",
-                "subtitle": "Announcements of a \"national lockdown\" or \"mandatory quarantine\" would not be made via viral text messages.",
+                "title": "Is White House Warning of a Mandatory Quarantine in a Text Message?",
+                "subtitle": "Announcements of a national lockdown or mandatory quarantine would not be made via viral text messages.",
                 "value": "False"
             },
             {
@@ -277,22 +277,22 @@
                 "value": "CorrectAttribution"
             },
             {
-                "title": "Is This Timeline of Trump\u2019s Coronavirus Responses Accurate?",
-                "subtitle": "U.S. President Donald Trump claimed that he felt COVID-19 was a pandemic \"long before it was called a pandemic,\" but his previous recorded statements paint a different picture. ",
+                "title": "Is This Timeline of Trumps Coronavirus Responses Accurate?",
+                "subtitle": "U.S. President Donald Trump claimed that he felt COVID-19 was a pandemic long before it was called a pandemic, but his previous recorded statements paint a different picture. ",
                 "value": "MostlyTrue"
             },
             {
-                "title": "Did President Trump Refer to the Coronavirus as a \u2018Hoax\u2019?",
-                "subtitle": "Trump's commentary on the new coronavirus came before the virus began killing patients in the U.S.",
+                "title": "Did President Trump Refer to the Coronavirus as a Hoax?",
+                "subtitle": "Trumps commentary on the new coronavirus came before the virus began killing patients in the U.S.",
                 "value": "Mixture"
             },
             {
-                "title": "Did President Trump Say \u2018People Are Dying Today That Have Never Died Before\u2019?",
+                "title": "Did President Trump Say People Are Dying Today That Have Never Died Before?",
                 "subtitle": "A number of hoaxes have circulated amid the COVID-19 pandemic.",
                 "value": "False"
             },
             {
-                "title": "Did Donald Trump Say \u2018Never Blame Yourself\u2019?",
+                "title": "Did Donald Trump Say Never Blame Yourself?",
                 "subtitle": "This quote has been circulating since at least 2004, but its provenance is still unknown. ",
                 "value": "Unproven"
             },
@@ -302,33 +302,33 @@
                 "value": "Mixture"
             },
             {
-                "title": "Did Trump Tweet He\u2019d Deny Stimulus Checks to Any Who Used #NotMyPresident?",
+                "title": "Did Trump Tweet Hed Deny Stimulus Checks to Any Who Used #NotMyPresident?",
                 "subtitle": "Fake Trump tweets were just the tip of the iceberg as misinformation swirled during the COVID-19 pandemic.",
                 "value": "False"
             },
             {
                 "title": "Did Trump Administration Fire the US Pandemic Response Team?",
-                "subtitle": "As a new coronavirus spread in 2020, so did concerns about the United States' preparedness for a potential pandemic. ",
+                "subtitle": "As a new coronavirus spread in 2020, so did concerns about the United States preparedness for a potential pandemic. ",
                 "value": "True"
             },
             {
                 "title": "Did President Trump Cut the CDC Budget?",
-                "subtitle": "As the new coronavirus spread in February 2020, so did concerns about the United States' readiness to respond to the outbreak.",
+                "subtitle": "As the new coronavirus spread in February 2020, so did concerns about the United States readiness to respond to the outbreak.",
                 "value": "Mixture"
             },
             {
-                "title": "Was \u2018Coronavirus\u2019 Replaced with \u2018Chinese Virus\u2019 in Trump\u2019s Notes?",
-                "subtitle": "U.S. President Donald Trump has faced criticism for his insistence in referring to COVID-19 as the \"Chinese virus.\"",
+                "title": "Was Coronavirus Replaced with Chinese Virus in Trumps Notes?",
+                "subtitle": "U.S. President Donald Trump has faced criticism for his insistence in referring to COVID-19 as the Chinese virus.",
                 "value": "True"
             },
             {
                 "title": "Did US Sen. Graham Say Trump Knows More Than CDC About Medicine?",
-                "subtitle": "The senator defended President Donald Trump's handling of the new coronavirus outbreak, but he didn't go this far.",
+                "subtitle": "The senator defended President Donald Trumps handling of the new coronavirus outbreak, but he didnt go this far.",
                 "value": "False"
             },
             {
                 "title": "Does Trump Own Stock in a Company CDC Uses for COVID-19 Tests?",
-                "subtitle": "The U.S. president\u2019s finances are complex, but does Donald Trump actually benefit from the CDC\u2019s testing procedures for the new coronavirus?",
+                "subtitle": "The U.S. presidents finances are complex, but does Donald Trump actually benefit from the CDCs testing procedures for the new coronavirus?",
                 "value": "False"
             },
             {
@@ -337,23 +337,23 @@
                 "value": "Mixture"
             },
             {
-                "title": "Did a Chinese Intelligence Officer Reveal the \u2018Truth About the Coronavirus Outbreak\u2019?",
+                "title": "Did a Chinese Intelligence Officer Reveal the Truth About the Coronavirus Outbreak?",
                 "subtitle": "A piece of horror fiction was a little too believable for some readers. ",
                 "value": "False"
             },
             {
-                "title": "Does \u2018Every Election Year\u2019 Have a Coinciding Disease?",
+                "title": "Does Every Election Year Have a Coinciding Disease?",
                 "subtitle": "A conspiratorial meme about disease outbreaks got a number of key facts wrong.",
                 "value": "False"
             },
             {
-                "title": "Is the \u2018Umbrella Corporation\u2019 Logo Oddly Similar to a Wuhan Biotech Lab\u2019s?",
-                "subtitle": "Some concern arose over apparent connections between the video game \"Resident Evil\" and a new coronavirus outbreak.",
+                "title": "Is the Umbrella Corporation Logo Oddly Similar to a Wuhan Biotech Labs?",
+                "subtitle": "Some concern arose over apparent connections between the video game Resident Evil and a new coronavirus outbreak.",
                 "value": "False"
             },
             {
-                "title": "Is This Train Car Carrying \u2018COVID-19\u2019?",
-                "subtitle": "It's puzzling why more conspirators aren't caught when they operate so brazenly.",
+                "title": "Is This Train Car Carrying COVID-19?",
+                "subtitle": "Its puzzling why more conspirators arent caught when they operate so brazenly.",
                 "value": "False"
             },
             {
@@ -373,7 +373,7 @@
             },
             {
                 "title": "Did Nostradamus Predict the COVID-19 Pandemic?",
-                "subtitle": "If only people recognized \"predictions\" before the calamitous events they supposedly anticipate. ",
+                "subtitle": "If only people recognized predictions before the calamitous events they supposedly anticipate. ",
                 "value": "False"
             },
             {
@@ -383,21 +383,21 @@
             },
             {
                 "title": "Was Coronavirus Predicted in a 1981 Dean Koontz Novel?",
-                "subtitle": "A speculative anticipation of a possibility is very different than a 'prediction.'",
+                "subtitle": "A speculative anticipation of a possibility is very different than a prediction.",
                 "value": "MostlyFalse"
             },
             {
-                "title": "Did \u2018The Simpsons\u2019 Predict the Coronavirus Outbreak?",
-                "subtitle": "It might be time to raise our standards for \"predictions.\"",
+                "title": "Did The Simpsons Predict the Coronavirus Outbreak?",
+                "subtitle": "It might be time to raise our standards for predictions.",
                 "value": "False"
             },
             {
-                "title": "Did an Infectious Disease Specialist Write \u2018I Am Not Scared of COVID-19\u2019?",
+                "title": "Did an Infectious Disease Specialist Write I Am Not Scared of COVID-19?",
                 "subtitle": "Readers inquired about a viral Facebook post amid an outbreak of the new coronavirus in 2020.",
                 "value": "CorrectAttribution"
             },
             {
-                "title": "\u2018Uncle With Masters Degree\u2019 Gets Facts Wrong in Coronavirus \u2018Announcement\u2019",
+                "title": "Uncle With Masters Degree Gets Facts Wrong in Coronavirus Announcement",
                 "subtitle": "A viral Facebook post amplified dubious and potentially dangerous claims amid an outbreak of the new coronavirus. ",
                 "value": "News"
             },
@@ -407,8 +407,8 @@
                 "value": "CorrectAttribution"
             },
             {
-                "title": "Did a Doctor in Italy Warn Coronavirus Wasn\u2019t Just a \u2018Bad Flu\u2019?",
-                "subtitle": "Physician: \"The situation is now nothing short of dramatic. No other words come to mind.\"",
+                "title": "Did a Doctor in Italy Warn Coronavirus Wasnt Just a Bad Flu?",
+                "subtitle": "Physician: The situation is now nothing short of dramatic. No other words come to mind.",
                 "value": "CorrectAttribution"
             },
             {
@@ -422,28 +422,28 @@
                 "value": "False"
             },
             {
-                "title": "Did VP Mike Pence Introduce \u2018Conversion Therapy\u2019 Program to Combat Coronavirus?",
+                "title": "Did VP Mike Pence Introduce Conversion Therapy Program to Combat Coronavirus?",
                 "subtitle": "A routine review of content labeled satire.",
                 "value": "LabeledSatire"
             },
             {
                 "title": "Did the Vatican Confirm Pope Francis Had Coronavirus?",
-                "subtitle": "An unreliable website furthered rumors about the pontiff's health in early 2020.",
+                "subtitle": "An unreliable website furthered rumors about the pontiffs health in early 2020.",
                 "value": "False"
             },
             {
                 "title": "Does Trump Own Stock in a Company CDC Uses for COVID-19 Tests?",
-                "subtitle": "The U.S. president\u2019s finances are complex, but does Donald Trump actually benefit from the CDC\u2019s testing procedures for the new coronavirus?",
+                "subtitle": "The U.S. presidents finances are complex, but does Donald Trump actually benefit from the CDCs testing procedures for the new coronavirus?",
                 "value": "False"
             },
             {
                 "title": "Can You Get Free Baby Formula During COVID-19 Crisis by Calling the Company?",
-                "subtitle": "You can't conjure up a giveaway out of thin air. ",
+                "subtitle": "You cant conjure up a giveaway out of thin air. ",
                 "value": "False"
             },
             {
-                "title": "Is McDonald\u2019s Giving Free Lunches to School Kids During Pandemic?",
-                "subtitle": "A few McDonald's locations in the U.S. made a major announcement about kids' meals.",
+                "title": "Is McDonalds Giving Free Lunches to School Kids During Pandemic?",
+                "subtitle": "A few McDonalds locations in the U.S. made a major announcement about kids meals.",
                 "value": "Mixture"
             },
             {
@@ -458,12 +458,12 @@
             },
             {
                 "title": "Are People Collapsing in the Street from Coronavirus?",
-                "subtitle": "A spokesperson for the World Health Organization said that fainting in this manner from coronavirus would be \"atypical.\"",
+                "subtitle": "A spokesperson for the World Health Organization said that fainting in this manner from coronavirus would be atypical.",
                 "value": "Unproven"
             },
             {
-                "title": "China\u2019s Official Newspaper Mislabels Video Footage in Coronavirus Coverage",
-                "subtitle": "A People's Daily video claiming to show \"full-front disinfection work\" in Wuhan included footage taken at an airport in Taiwan.",
+                "title": "Chinas Official Newspaper Mislabels Video Footage in Coronavirus Coverage",
+                "subtitle": "A Peoples Daily video claiming to show full-front disinfection work in Wuhan included footage taken at an airport in Taiwan.",
                 "value": "News"
             },
             {
@@ -477,53 +477,53 @@
                 "value": "Mixture"
             },
             {
-                "title": "Is Teens Coughing on Produce a \u2018Disturbing Trend\u2019 in the US?",
-                "subtitle": "A reported instance of \"teens doing dumb things on social media\" may be something less than a national craze.",
+                "title": "Is Teens Coughing on Produce a Disturbing Trend in the US?",
+                "subtitle": "A reported instance of teens doing dumb things on social media may be something less than a national craze.",
                 "value": "False"
             },
             {
-                "title": "Did Dolphins and Swans \u2018Return\u2019 to Italian Waterways Amid COVID-19 Lockdown?",
+                "title": "Did Dolphins and Swans Return to Italian Waterways Amid COVID-19 Lockdown?",
                 "subtitle": "A few wildlife sightings were excitedly shared across social media as a note of sunny news amid the bleak reality of the coronavirus pandemic.",
                 "value": "Mixture"
             },
             {
-                "title": "Did MSNBC Reporter Say \u2018I Hope Coronavirus Kills People and Hurts Trump\u2019s Reelection\u2019?",
+                "title": "Did MSNBC Reporter Say I Hope Coronavirus Kills People and Hurts Trumps Reelection?",
                 "subtitle": "This false rumor demonstrates how one subtle video edit can achieve a huge deception. ",
                 "value": "False"
             },
             {
-                "title": "No, a Hair Dryer Won\u2019t Stop Coronavirus",
+                "title": "No, a Hair Dryer Wont Stop Coronavirus",
                 "subtitle": "A viral video that claims breathing hot air from a hair dryer could cure COVID-19 demonstrates a basic and dangerous lack of understanding about science.",
                 "value": "False"
             },
             {
                 "title": "List of Grocery Stores with Special Hours for Seniors, the At-Risk, and Pregnant Women",
-                "subtitle": "We've compiled a list of major grocery chains offering dedicated hours set aside for members of vulnerable populations during the COVID-19 pandemic.",
+                "subtitle": "Weve compiled a list of major grocery chains offering dedicated hours set aside for members of vulnerable populations during the COVID-19 pandemic.",
                 "value": "News"
             },
             {
-                "title": "Is McDonald\u2019s Giving Free Lunches to School Kids During Pandemic?",
-                "subtitle": "A few McDonald's locations in the U.S. made a major announcement about kids' meals.",
+                "title": "Is McDonalds Giving Free Lunches to School Kids During Pandemic?",
+                "subtitle": "A few McDonalds locations in the U.S. made a major announcement about kids meals.",
                 "value": "Mixture"
             },
             {
                 "title": "Is Starbucks Offering $100 Coupons During the COVID-19 Pandemic?",
-                "subtitle": "Coupon scams are not uncommon \u2014 with or without a global pandemic.",
+                "subtitle": "Coupon scams are not uncommon  with or without a global pandemic.",
                 "value": "Scam"
             },
             {
                 "title": "Can You Get Free Baby Formula During COVID-19 Crisis by Calling the Company?",
-                "subtitle": "You can't conjure up a giveaway out of thin air. ",
+                "subtitle": "You cant conjure up a giveaway out of thin air. ",
                 "value": "False"
             },
             {
                 "title": "Did Costco Issue a Recall Notice for Toilet Paper?",
-                "subtitle": "Even if COVID-19 hasn't infected the entire population, a mania for buying bathroom tissue apparently has. ",
+                "subtitle": "Even if COVID-19 hasnt infected the entire population, a mania for buying bathroom tissue apparently has. ",
                 "value": "False"
             },
             {
                 "title": "Is Amazon Suspending All Deliveries Except Medical Supplies?",
-                "subtitle": "An unclear headline and a paywalled article led to some confusion about Amazon's announcement. ",
+                "subtitle": "An unclear headline and a paywalled article led to some confusion about Amazons announcement. ",
                 "value": "MostlyFalse"
             },
             {
@@ -543,17 +543,17 @@
             },
             {
                 "title": "Does Trump Own Stock in a Company CDC Uses for COVID-19 Tests?",
-                "subtitle": "The U.S. president\u2019s finances are complex, but does Donald Trump actually benefit from the CDC\u2019s testing procedures for the new coronavirus?",
+                "subtitle": "The U.S. presidents finances are complex, but does Donald Trump actually benefit from the CDCs testing procedures for the new coronavirus?",
                 "value": "False"
             },
             {
-                "title": "Does Jared Kushner\u2019s Brother Own a Company Involved in COVID-19 Testing?",
+                "title": "Does Jared Kushners Brother Own a Company Involved in COVID-19 Testing?",
                 "subtitle": "Oscar, a digital health-insurance startup that recently set up a service for users to find COVID-19 testing centers, was co-founded by Joshua Kushner. ",
                 "value": "Mixture"
             },
             {
-                "title": "Did \u2018The Simpsons\u2019 Predict the Coronavirus Outbreak?",
-                "subtitle": "It might be time to raise our standards for \"predictions.\"",
+                "title": "Did The Simpsons Predict the Coronavirus Outbreak?",
+                "subtitle": "It might be time to raise our standards for predictions.",
                 "value": "False"
             },
             {
